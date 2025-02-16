@@ -1,10 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-#Realtime Website
+# Realtime Website
 
 This project is hosted live on https://vercel.com/sai5810s-projects/mars-visit-application-lrcd using the Vercel website for next.js products.
 
-#Local Host
+# Local Host
 
 First, run the development server:
 
