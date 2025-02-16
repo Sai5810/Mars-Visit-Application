@@ -1,7 +1,10 @@
 "use client";
 
+import React from 'react';
+import { FormData } from "../types";
+
 interface SubmissionSummaryProps {
-  formData: any;
+  formData: FormData;
   restartForm: () => void;
 }
 

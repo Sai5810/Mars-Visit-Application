@@ -5,10 +5,11 @@ import StageOne from "./StageOne";
 import StageTwo from "./StageTwo";
 import StageThree from "./StageThree";
 import SubmissionSummary from "./SubmissionSummary";
+import { FormData } from "../types";
 
 export default function MultiStageForm() {
   const [stage, setStage] = useState(1);
-  const [formData, setFormData] = useState({
+  const [formData, setFormData] = useState<FormData>({
     fullName: '',
     dateOfBirth: '',
     nationality: '',

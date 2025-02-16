@@ -1,10 +1,11 @@
 "use client";
 
 import React from 'react';
+import { FormData } from "../types";
 
 interface StageOneProps {
   nextStage: () => void;
-  formData: any;
+  formData: FormData;
   handleChange: (e: React.ChangeEvent<HTMLInputElement>) => void;
 }
 
