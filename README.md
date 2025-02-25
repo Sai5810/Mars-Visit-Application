@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 # Realtime Website
 
-This project is hosted live on https://vercel.com/sai5810s-projects/mars-visit-application-lrcd using the Vercel website for next.js products.
+This project is hosted live on (https://mars-visit-application-lrcd.vercel.app/) using the Vercel website for next.js products.
 
 # Local Host
 
